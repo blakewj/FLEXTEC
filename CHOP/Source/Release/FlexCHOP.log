@@ -1,0 +1,21 @@
+﻿  aabbtree.cpp
+  core.cpp
+  extrude.cpp
+  maths.cpp
+  mesh.cpp
+  perlin.cpp
+  pfm.cpp
+  platform.cpp
+  sdf.cpp
+  tga.cpp
+  voxelize.cpp
+  FlexCHOP.cpp
+FlexCHOP.cpp(103): warning C4800: 'int32_t': forcing value to bool 'true' or 'false' (performance warning)
+FlexCHOP.cpp(326): warning C4800: 'const float': forcing value to bool 'true' or 'false' (performance warning)
+  FlexSystem.cpp
+     Creating library Z:\FLEXTD\FlexCHOP-master\CHOP\Source\Release\FlexCHOP.lib and object Z:\FLEXTD\FlexCHOP-master\CHOP\Source\Release\FlexCHOP.exp
+  Generating code
+  All 527 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  FlexCHOP.vcxproj -> Z:\FLEXTD\FlexCHOP-master\CHOP\Source\Release\FlexCHOP.dll
+  FlexCHOP.vcxproj -> Z:\FLEXTD\FlexCHOP-master\CHOP\Source\Release\FlexCHOP.pdb (Full PDB)
